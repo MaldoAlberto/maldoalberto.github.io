@@ -1,0 +1,1 @@
+import{defineConfig}from"vite";import react from"@vitejs/plugin-react";import{cpSync}from"node:fs";export default defineConfig({plugins:[react(),{name:"copy-json-data",closeBundle(){cpSync("data","dist/data",{recursive:true})}}],base:"/",build:{outDir:"dist",emptyOutDir:true}});
