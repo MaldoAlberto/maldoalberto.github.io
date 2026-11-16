@@ -434,7 +434,8 @@ a:focus-visible, button:focus-visible { outline-color: var(--award); }
 :root[data-theme="light"] .pg-result { color: var(--text); }
 
 
-/* Green-led accents: remove gold from both themes */
+
+/* Unified green, charcoal and neutral theme overrides */
 :root {
   --award: #A5B58A;
   --accent: #9BAA7B;
@@ -446,17 +447,25 @@ a:focus-visible, button:focus-visible { outline-color: var(--award); }
   --accent: #71866D;
   --accent-strong: #586F57;
   --accent-soft: rgba(113, 134, 109, .12);
+  --bg: #F3F4F2;
+  --surface: #FFFFFF;
+  --surface-raised: #E9EBE8;
+  --text: #292D2A;
 }
-:root[data-theme="light"] .featured {
-  border-color: rgba(100, 125, 98, .34);
-}
-:root[data-theme="light"] .featured::after {
-  background: radial-gradient(circle, rgba(113, 134, 109, .10), transparent 68%);
-}
+a:hover { color: var(--accent-strong); }
+a:focus-visible, button:focus-visible { outline-color: var(--accent); }
+.brand .dot, .eyebrow, .section-kicker { color: var(--accent); }
+.btn.primary { color: #171916; background: var(--accent); border-color: var(--accent); }
+.btn.primary:hover { color: #171916; background: var(--accent-strong); }
+.featured { border-color: color-mix(in srgb, var(--accent) 42%, transparent); }
+.featured::after { background: radial-gradient(circle, var(--accent-soft), transparent 68%); }
+.theme-toggle:hover { border-color: var(--accent); }
+.hero-orbit:before, .hero-orbit:after { border-color: color-mix(in srgb, var(--accent) 34%, transparent); }
+.hero-orbit span:nth-child(3) { background: var(--accent-strong); }
+.cite-fill { background: linear-gradient(180deg, var(--accent), var(--accent-strong)); }
+.regime.pqec { background: var(--accent-soft); color: var(--award); }
+:root[data-theme="light"] .featured { border-color: rgba(100, 125, 98, .34); }
+:root[data-theme="light"] .featured::after { background: radial-gradient(circle, rgba(113, 134, 109, .10), transparent 68%); }
 :root[data-theme="light"] .hero-orbit:before,
-:root[data-theme="light"] .hero-orbit:after {
-  border-color: rgba(113, 134, 109, .22);
-}
-:root[data-theme="light"] .hero::before {
-  background: radial-gradient(circle, rgba(143, 160, 137, .18), rgba(143, 160, 137, .06) 44%, transparent 70%);
-}
+:root[data-theme="light"] .hero-orbit:after { border-color: rgba(113, 134, 109, .22); }
+:root[data-theme="light"] .hero::before { background: radial-gradient(circle, rgba(143, 160, 137, .18), rgba(143, 160, 137, .06) 44%, transparent 70%); }
