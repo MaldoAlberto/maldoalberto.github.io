@@ -15,6 +15,13 @@ Curated public references for the portfolio of Alberto Maldonado Romo. Links poi
 - The recap identifies Alberto Maldonado Romo as a leader of the Quantum Education unconference session (Part 2).
 - The recap includes event photographs and a group photo.
 
+### unitaryHACK & Unitary Design — ongoing community involvement
+- [Unitary Foundation](https://unitary.foundation/) — umbrella organization and public project hub.
+- Portfolio wording based on Alberto's account: participated in every unitaryHACK edition, later served as a maintainer, contributed to Unitary Design activities, and hosted community sessions/events.
+- [2022 Unitary Foundation annual report](https://unitary.foundation/assets/Unitary_Fund_2022_Report.pdf) — identifies Alberto as a maintainer for the Quantum Universal Education project during unitaryHACK.
+- [Quantum Together 2024 — UNAM](https://www.cuantico.unam.mx/QT2026/2024/index.html) — documented community meetup with Alberto as a Unitary Fund Ambassador and Qiskit Advocate.
+- Add specific edition pages, maintainer project links, Unitary Design references, and hosted-session recordings as they are collected.
+
 ## PennyLane
 
 ### PennyLane Quantum Carnival — 2021
@@ -47,6 +54,9 @@ Curated public references for the portfolio of Alberto Maldonado Romo. Links poi
 - **Winner — PennyLane Quantum Carnival Talent Show (2021)**
 
 ### Community leadership
+- **unitaryHACK — Participant across editions; later maintainer.**
+- **Unitary Design — Contributor/participant in design-focused community activities.**
+- **Community host — Hosted Unitary Foundation sessions/events.**
 - **Organizer — PennyLane Challenge México, IPN (2022)**
 - **unitaryCON 2023 — Participant**, Unitary Foundation community workshop, Rome.
 - **unitaryCON 2025 — Participant and Quantum Education unconference session lead**, Unitary Foundation, Albuquerque.
