@@ -34,6 +34,22 @@ Curated public references for the portfolio of Alberto Maldonado Romo. Links poi
 - Portfolio entry: **Organizer — PennyLane Challenge México, IPN (2022)**.
 - Keep this separate from the 2021 Carnival award: this was an organizing contribution.
 
+
+## Events organized & hosted
+
+- **Qiskit Fall Fest Mexico (2021–2023)** — organized the Mexican editions. [IPN coverage](https://www.ipn.mx/assets/files/imageninstitucional/docs/gaceta-seleccion/2024/11/g-179.pdf) documents the 2021–2023 editions; [2022 event archive](https://proyectosrym.cic.ipn.mx/qcoloquio/).
+- **PennyLane Challenge México (2022)** — organizer as part of the CIC-IPN Coloquio de Cómputo. [Event archive](https://proyectosrym.cic.ipn.mx/qcoloquio/).
+- **International Colloquium: Quantum Computing Opportunities (March 13–15, 2024)** — listed as an organizer. [Official event program](https://indico.buap.mx/event/97/). The related publication reports 240 Spanish-speaking registrants. [Publication record](https://drive.eurekamag.com/research/096/173/096173012.php).
+- **Quantum Together (2024 and 2025)** — listed among the organizers/community hosts. The event connected Spanish-speaking participants with open-source quantum projects and UnitaryHACK issues. [2024 page](https://www.cuantico.unam.mx/QT2026/2024/index.html) · [2025 page](https://www.cuantico.unam.mx/QT2026/2025/).
+
+## Mentorship & education programs
+
+- **QOSF Quantum Computing Mentorship Program** — mentor and cohort/community leadership, including monthly challenges. The program pairs learners with mentors to deliver open-source quantum software projects. [Official program page](https://qosf.org/qc_mentorship/).
+- **Qiskit Advocate Mentorship Program (2022)** — mentor. [IBM Quantum community](https://www.ibm.com/quantum/community).
+- **Quantum Universal Education** — community and educational contributions through accessible learning initiatives. [Unitary Foundation](https://unitary.foundation/).
+
+Suggested line for the site: **“I build pathways into quantum computing through open-source mentorship, hands-on events, and science communication—helping people move from curiosity to meaningful contributions.”**
+
 ## Other public event references
 
 - [Quantum Together 2024 — UNAM](https://www.cuantico.unam.mx/QT2026/2024/index.html) — organizer profile identifying Alberto Maldonado Romo as Unitary Fund Ambassador and Qiskit Advocate.
