@@ -549,3 +549,18 @@ body { background: radial-gradient(ellipse at 86% 0%, rgba(113,134,109,.12), tra
   .focus-card h3 { font-size: 14px; }
   .hero-visual, .hero-visual img { min-height: 240px; height: 240px; }
 }
+
+
+/* Community journey timeline */
+.journey-statement{max-width:850px;margin:8px 0 42px;padding:0 0 0 22px;border-left:2px solid var(--accent);font-size:clamp(19px,2.5vw,27px);line-height:1.5;letter-spacing:-.025em;color:var(--text)}
+.journey-timeline{list-style:none;margin:0;padding:0;display:grid;gap:0}
+.journey-timeline li{display:grid;grid-template-columns:minmax(220px,.82fr) minmax(0,1fr);gap:clamp(24px,5vw,64px);align-items:center;padding:30px 0;border-top:1px solid var(--border)}
+.journey-timeline figure{margin:0;position:relative;overflow:hidden;border-radius:10px;background:var(--surface);aspect-ratio:16/10}
+.journey-timeline figure img{width:100%;height:100%;object-fit:cover;display:block;filter:saturate(.72)}
+.journey-timeline figcaption{position:absolute;bottom:0;left:0;right:0;padding:9px 12px;background:linear-gradient(transparent,rgba(0,0,0,.78));color:#f5f5ef;font:10px var(--mono);letter-spacing:.04em}
+.journey-year{display:block;font-size:clamp(30px,4vw,44px);font-weight:600;letter-spacing:-.06em;color:var(--accent);margin-bottom:8px}
+.journey-copy .meta{font:10px var(--mono);letter-spacing:.1em;color:var(--muted)}
+.journey-copy h3{font-size:clamp(21px,2.5vw,29px);letter-spacing:-.04em;margin:10px 0}
+.journey-copy p{max-width:600px;color:var(--muted);line-height:1.7}
+.journey-copy>a{font-size:13px;font-weight:600}
+@media(max-width:680px){.journey-timeline li{grid-template-columns:1fr;gap:18px}.journey-timeline figure{max-height:230px}.journey-statement{margin-bottom:24px}}
