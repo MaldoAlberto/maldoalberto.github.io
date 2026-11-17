@@ -2,6 +2,8 @@ name: Deploy portfolio to GitHub Pages
 on:
   push:
     branches: [master]
+  pull_request:
+    branches: [master]
   workflow_dispatch:
 permissions:
   contents: read
@@ -20,10 +22,13 @@ jobs:
           node-version: 22
       - run: npm install
       - run: npm run build
+      - name: Verify production pages and data
+        run: node scripts/verify-build.mjs
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
