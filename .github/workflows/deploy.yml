@@ -1,4 +1,5 @@
 name: Deploy portfolio to GitHub Pages
+# PR #12 now builds on top of the merged portfolio case studies.
 on:
   push:
     branches: [master]
