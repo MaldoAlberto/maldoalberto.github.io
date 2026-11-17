@@ -19,3 +19,5 @@ jobs:
           cache: npm
       - run: npm install
       - run: npm run build
+      - name: Verify production pages and data
+        run: node scripts/verify-build.mjs
