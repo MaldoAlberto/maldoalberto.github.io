@@ -106,14 +106,30 @@
     "title": "Ocurre 8va edición de “Destino: Innovación”",
     "source": "Instituto de Física, UNAM",
     "summary": "Presented Qiskit 101 as IBM Quantum at the Instituto de Física, UNAM.",
-    "url": "https://www.fisica.unam.mx/organizacion/comunicacion/noticia.php?id=2417"
+    "url": "https://www.fisica.unam.mx/organizacion/comunicacion/noticia.php?id=2417",
+    "extra": [
+      {
+        "label": "Speaker photo (UNAM)",
+        "url": "https://www.fisica.unam.mx/vinculacion/innovacion/2025/assets/img/speakers/maldonado_romo.jpg"
+      },
+      {
+        "label": "Event page and speaker profile",
+        "url": "https://www.fisica.unam.mx/vinculacion/innovacion/2025/"
+      }
+    ]
   },
   {
     "date": "2025-07",
     "title": "Cómputo cuántico transformará industrias en todos los campos: especialista",
     "source": "Amexi",
     "summary": "Interview on quantum computing education and accessibility.",
-    "url": "https://amexi.com.mx/nacional/computo-cuantico-transformara-industrias-en-todos-los-campos-especialista/"
+    "url": "https://amexi.com.mx/nacional/computo-cuantico-transformara-industrias-en-todos-los-campos-especialista/",
+    "extra": [
+      {
+        "label": "Interview photo credit / article image",
+        "url": "https://amexi.com.mx/nacional/computo-cuantico-transformara-industrias-en-todos-los-campos-especialista/"
+      }
+    ]
   },
   {
     "date": "2024-11-28",
@@ -163,5 +179,22 @@
     "source": "Quantum Universal Education",
     "summary": "Biography on the founding team page.",
     "url": "https://quantumuniversal.org/about-us/"
+  },
+  {
+    "date": "2024-10",
+    "title": "Qiskit Fall Fest CDMX 2024 — organizer profile",
+    "source": "Instituto Politécnico Nacional / Qiskit Fall Fest",
+    "summary": "The event site identifies Alberto Maldonado as an organizer and QOSF mentor / Unitary Fund Ambassador.",
+    "url": "https://sites.google.com/view/qiskit-fallfest-cdmx24/inicio",
+    "extra": [
+      {
+        "label": "Organizer portrait (Google Sites)",
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72t-3_mwCWxZmPWzcHBvbs2tlIMkB7YjYpIsdtgqfgpVPJWUQSF_KonCnZQDYZiST_Fqzd9ntyaV5Q8QF__q__U49vuAmN2iFAYogoHDy4Uc-265iGBifLLMUu-NWhcH00es8_ilZlzqgj880hXCic5uk16iBpwx1KwkbtUcadHOVf9-VVTk1RTsKwlzr1dZJswQI61qUU-kE3ULJmQxiaciHPxVRgLOBSIbpdq1UPQ%3Dw1280"
+      },
+      {
+        "label": "Quantum Together organizer profile",
+        "url": "https://www.cuantico.unam.mx/QT2026/2025/"
+      }
+    ]
   }
 ]
