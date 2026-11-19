@@ -36,3 +36,4 @@
 /* Media page photos */
 .media-card { overflow: hidden; }
 .media-photo { display: block; width: calc(100% + 2 * var(--card-pad, 24px)); max-width: none; margin: calc(-1 * var(--card-pad, 24px)) calc(-1 * var(--card-pad, 24px)) 16px; aspect-ratio: 1 / 1; height: auto; object-fit: cover; }
+.page-intro.no-image{grid-template-columns:minmax(0,1fr)}

@@ -6,7 +6,8 @@
     "title": "Identifying problems that could benefit from quantum computing",
     "event": "Qiskit Fall Fest 2026, The Catholic University of America",
     "location": "Washington, DC",
-    "summary": "How to assess whether an application suits a quantum approach."
+    "summary": "How to assess whether an application suits a quantum approach.",
+    "links": []
   },
   {
     "date": "2026-06-25",
@@ -15,7 +16,8 @@
     "title": "Introduction to Quantum Computing and Quantum Machine Learning",
     "event": "University of Arkansas at Little Rock",
     "location": "Little Rock, AR",
-    "summary": "Two-day workshop with 150+ in-person and online participants, supported by the NSF DART program."
+    "summary": "Two-day workshop with 150+ in-person and online participants, supported by the NSF DART program.",
+    "links": []
   },
   {
     "date": "2026-07-01",
@@ -65,7 +67,8 @@
     "type": "Talk",
     "title": "Qiskit Fall Fest 2025",
     "event": "Universidad del Valle",
-    "location": "Colombia"
+    "location": "Colombia",
+    "links": []
   },
   {
     "date": "2025-10-10",
@@ -137,11 +140,11 @@
     "event": "Escuela de Computación Cuántica en Español (Qiskit Fall Fest 2023)",
     "links": [
       {
-        "label": "Video: Uso de hardware cuántico",
+        "label": "Recording: Uso de hardware cuántico",
         "url": "https://www.youtube.com/watch?v=ZelwmKtT0C8"
       },
       {
-        "label": "Video: Qiskit Runtime",
+        "label": "Recording: Qiskit Runtime",
         "url": "https://www.youtube.com/watch?v=hXilHo3Fe3E"
       },
       {
@@ -184,15 +187,15 @@
     "location": "Mexico City",
     "links": [
       {
-        "label": "Video: QML (ES)",
+        "label": "Recording: QML (ES)",
         "url": "https://www.youtube.com/watch?v=YVfUrGcUxVQ"
       },
       {
-        "label": "Video: Intro QC (ES)",
+        "label": "Recording: Intro QC (ES)",
         "url": "https://www.youtube.com/watch?v=hMH2jJO3Xq8"
       },
       {
-        "label": "Video: Intro QC (EN)",
+        "label": "Recording: Intro QC (EN)",
         "url": "https://www.youtube.com/watch?v=x0RMjEdHOmw"
       },
       {
@@ -209,7 +212,7 @@
     "location": "Argentina",
     "links": [
       {
-        "label": "Video",
+        "label": "Recording",
         "url": "https://www.youtube.com/watch?v=IRNj8OgQwUQ"
       }
     ]
@@ -223,7 +226,7 @@
     "location": "Nigeria",
     "links": [
       {
-        "label": "Video",
+        "label": "Recording",
         "url": "https://www.youtube.com/watch?v=LYkH94OUmT0"
       }
     ]
@@ -233,15 +236,11 @@
     "dateLabel": "Jan 2025",
     "type": "Interview",
     "title": "Explorando la computación cuántica y ciberseguridad",
-    "event": "Ciberseguridad en español (YouTube)",
+    "event": "Ciberseguridad en español",
     "links": [
       {
-        "label": "Video (1 h 30 min)",
+        "label": "Recording (1 h 30 min)",
         "url": "https://www.youtube.com/watch?v=AudH_GiP_Zg"
-      },
-      {
-        "label": "Short (58 s)",
-        "url": "https://www.youtube.com/watch?v=VJK9bJIK8XQ"
       }
     ]
   },
@@ -253,20 +252,8 @@
     "event": "Qiskit Fall Fest 2024, Quantum Colombia",
     "links": [
       {
-        "label": "Video",
+        "label": "Recording",
         "url": "https://www.youtube.com/watch?v=hgc2p_7afPo"
-      }
-    ]
-  },
-  {
-    "date": "2023-12-18",
-    "type": "Video",
-    "title": "¿Cómo usar una computadora cuántica antes de que acabe el 2023?",
-    "event": "YouTube tutorial: Qiskit Runtime, Sampler and Estimator with the Draper adder",
-    "links": [
-      {
-        "label": "Video",
-        "url": "https://www.youtube.com/watch?v=NK2RHtiJTr8"
       }
     ]
   },
@@ -305,7 +292,7 @@
     "location": "Europe",
     "links": [
       {
-        "label": "Video",
+        "label": "Recording",
         "url": "https://www.youtube.com/watch?v=ZJyUPuZ93wQ"
       }
     ]
@@ -319,7 +306,7 @@
     "location": "Mexico City",
     "links": [
       {
-        "label": "Video",
+        "label": "Recording",
         "url": "https://www.youtube.com/watch?v=xC9EC-N6h9I"
       }
     ]
@@ -331,7 +318,7 @@
     "event": "Unitary Foundation — with Lia Yeh and Sam Sharma",
     "links": [
       {
-        "label": "Video",
+        "label": "Recording",
         "url": "https://www.youtube.com/watch?v=wSFmtkS-AP8"
       }
     ]
